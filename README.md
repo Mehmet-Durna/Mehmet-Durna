@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻I'm a full-stack web developer in Belgium<br>🔭 I’m currently studying at Thomas More Hogeschool. And I'm learning HTML, CSS, Java, Javascript and React<br>👯 I’m looking to collaborate on full-stack or front-end projects<br>🌱 I’m currently learning TypeScript and Next.js<br>💬 I love to write in React.js<br>⚡ I’m addicted to learning and growing every day
+💻I'm a full-stack web developer in Belgium<br>🔭 I’m currently working on various projects about React and Spring<br>👯 I’m looking to collaborate on full-stack or front-end projects<br>🌱 I’m currently learning TypeScript and Next.js<br>💬 I love to write in React.js and Java<br>⚡ I’m addicted to learning and growing every day
 
 
 ## 🌐 Socials:
